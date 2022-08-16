@@ -1,0 +1,19 @@
+.Header{
+    background: yellow;
+    padding: 4%;
+    
+}
+li{
+    list-style-type: none;
+    display: inline-block;
+    text-decoration: none;
+    margin: 4px ;
+}
+h1{
+    background: black;
+    padding: 10px;
+    color: white;
+}
+.rick{
+    margin-top: -40px;
+}
